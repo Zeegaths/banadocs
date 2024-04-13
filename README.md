@@ -16,3 +16,5 @@ yarn
 
 yarn start
 ```
+
+This is the staking contract: 0xE3A6B5176e2E9132Ea2C19E0348e80746f681d5A
